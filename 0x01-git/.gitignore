@@ -1,0 +1,6 @@
+#this is a comment
+#the next line should ignore all files start with the "~" as its directory
+*~
+
+#the next line should ignorea ll filess created with the emacs
+/.emacs
